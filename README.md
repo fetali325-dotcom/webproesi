@@ -2,10 +2,10 @@
 
 repo1
 proje acıklaması
-Bu proje, insan kaynakalrı web sitesi olcak ve kullanıcılar kendilerine uygun mesleğe başvuru yapabilecek.
+Bu proje, yazılım ile ilgili insan kaynakları web sitesi olcak ve kullanıcılar kendilerine  uygun iş başvurusu yapabilecek.
 
 hedef kullanıcı
-Büyük veya küçük çaplı şirketler
+kendilerine uygun yazılımla ilgili iş arayan herkes
 
 temel özellikler
 kullanıcı kayıt/giriş yetkilendirme sistemi görev dağıılımı
